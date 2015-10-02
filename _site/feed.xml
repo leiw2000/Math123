@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daily Math Challenges by Dr. Kevin Wang</title>
-    <description>These are the daily questions from Dr. Kevin Wang, &lt;a href=&quot;http://www.areteem.org&quot;&gt;Areteem Institute&lt;/a&gt;. &amp;copy; Copyright 2015
-</description>
-    <link>http://mathmaven.github.io/</link>
-    <atom:link href="http://mathmaven.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Oct 2015 19:46:47 -0400</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2015 19:46:47 -0400</lastBuildDate>
+    <description>These are the daily questions from Dr. Kevin Wang, Areteem Institute. &amp;copy; Copyright 2015</description>
+    <link>http://math123.github.io/</link>
+    <atom:link href="http://math123.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 01 Oct 2015 22:57:22 -0400</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2015 22:57:22 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -29,8 +28,8 @@ Coming soon.
 &lt;/solution&gt;
 </description>
         <pubDate>Wed, 30 Sep 2015 14:52:55 -0400</pubDate>
-        <link>http://mathmaven.github.io/logic/2015/09/30/who-is-taller.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/logic/2015/09/30/who-is-taller.html</guid>
+        <link>http://math123.github.io/logic/2015/09/30/who-is-taller.html</link>
+        <guid isPermaLink="true">http://math123.github.io/logic/2015/09/30/who-is-taller.html</guid>
         
         
         <category>logic</category>
@@ -109,8 +108,8 @@ Coming soon.
 
 </description>
         <pubDate>Tue, 29 Sep 2015 11:30:55 -0400</pubDate>
-        <link>http://mathmaven.github.io/geometry/2015/09/29/find-length-of-square.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/geometry/2015/09/29/find-length-of-square.html</guid>
+        <link>http://math123.github.io/geometry/2015/09/29/find-length-of-square.html</link>
+        <guid isPermaLink="true">http://math123.github.io/geometry/2015/09/29/find-length-of-square.html</guid>
         
         
         <category>geometry</category>
@@ -129,8 +128,8 @@ Coming soon.
 
 </description>
         <pubDate>Fri, 25 Sep 2015 13:42:27 -0400</pubDate>
-        <link>http://mathmaven.github.io/numbertheory/algebra/2015/09/25/abc-def-ghi--nnn.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/numbertheory/algebra/2015/09/25/abc-def-ghi--nnn.html</guid>
+        <link>http://math123.github.io/numbertheory/algebra/2015/09/25/abc-def-ghi--nnn.html</link>
+        <guid isPermaLink="true">http://math123.github.io/numbertheory/algebra/2015/09/25/abc-def-ghi--nnn.html</guid>
         
         
         <category>numbertheory</category>
@@ -155,8 +154,8 @@ Solution Two: The Method of Invariant. We look for a quantity that does not chan
 
 </description>
         <pubDate>Thu, 24 Sep 2015 14:52:55 -0400</pubDate>
-        <link>http://mathmaven.github.io/numbertheory/2015/09/24/throwing-coconuts.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/numbertheory/2015/09/24/throwing-coconuts.html</guid>
+        <link>http://math123.github.io/numbertheory/2015/09/24/throwing-coconuts.html</link>
+        <guid isPermaLink="true">http://math123.github.io/numbertheory/2015/09/24/throwing-coconuts.html</guid>
         
         
         <category>numbertheory</category>
@@ -210,8 +209,8 @@ l-595 0 0 725 0 726 87 -3 87 -3 508 -718z m658 -2 l0 -725 -67 0 -68 1 -422
 
 </description>
         <pubDate>Wed, 23 Sep 2015 14:52:55 -0400</pubDate>
-        <link>http://mathmaven.github.io/geometry/2015/09/23/cut-the-cake.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/geometry/2015/09/23/cut-the-cake.html</guid>
+        <link>http://math123.github.io/geometry/2015/09/23/cut-the-cake.html</link>
+        <guid isPermaLink="true">http://math123.github.io/geometry/2015/09/23/cut-the-cake.html</guid>
         
         
         <category>geometry</category>
@@ -236,8 +235,8 @@ $$  z=3, y=5, x=11 $$
 
 </description>
         <pubDate>Fri, 18 Sep 2015 13:42:27 -0400</pubDate>
-        <link>http://mathmaven.github.io/numbertheory/algebra/2015/09/18/find-apples.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/numbertheory/algebra/2015/09/18/find-apples.html</guid>
+        <link>http://math123.github.io/numbertheory/algebra/2015/09/18/find-apples.html</link>
+        <guid isPermaLink="true">http://math123.github.io/numbertheory/algebra/2015/09/18/find-apples.html</guid>
         
         
         <category>numbertheory</category>
@@ -258,8 +257,8 @@ We notice that the formula $n(n+1)/2$ can come in handy for this question becaus
 
 </description>
         <pubDate>Thu, 10 Sep 2015 13:42:27 -0400</pubDate>
-        <link>http://mathmaven.github.io/numbertheory/2015/09/10/find-term.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/numbertheory/2015/09/10/find-term.html</guid>
+        <link>http://math123.github.io/numbertheory/2015/09/10/find-term.html</link>
+        <guid isPermaLink="true">http://math123.github.io/numbertheory/2015/09/10/find-term.html</guid>
         
         
         <category>numbertheory</category>
@@ -344,8 +343,8 @@ text-align: center;
 
 </description>
         <pubDate>Mon, 10 Aug 2015 14:52:55 -0400</pubDate>
-        <link>http://mathmaven.github.io/numbertheory/2015/08/10/block-calendar.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/numbertheory/2015/08/10/block-calendar.html</guid>
+        <link>http://math123.github.io/numbertheory/2015/08/10/block-calendar.html</link>
+        <guid isPermaLink="true">http://math123.github.io/numbertheory/2015/08/10/block-calendar.html</guid>
         
         
         <category>numbertheory</category>
@@ -379,8 +378,8 @@ No. In order for there to be a 3x3 magic square, the sum must be divisble by 3. 
 
 </description>
         <pubDate>Fri, 07 Aug 2015 14:52:55 -0400</pubDate>
-        <link>http://mathmaven.github.io/numbertheory/2015/08/07/magic-square-2015.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/numbertheory/2015/08/07/magic-square-2015.html</guid>
+        <link>http://math123.github.io/numbertheory/2015/08/07/magic-square-2015.html</link>
+        <guid isPermaLink="true">http://math123.github.io/numbertheory/2015/08/07/magic-square-2015.html</guid>
         
         
         <category>numbertheory</category>
@@ -401,8 +400,8 @@ You can only use 1g.
 
 </description>
         <pubDate>Thu, 06 Aug 2015 14:52:55 -0400</pubDate>
-        <link>http://mathmaven.github.io/numbertheory/2015/08/06/alternating-scale.html</link>
-        <guid isPermaLink="true">http://mathmaven.github.io/numbertheory/2015/08/06/alternating-scale.html</guid>
+        <link>http://math123.github.io/numbertheory/2015/08/06/alternating-scale.html</link>
+        <guid isPermaLink="true">http://math123.github.io/numbertheory/2015/08/06/alternating-scale.html</guid>
         
         
         <category>numbertheory</category>
