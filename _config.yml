@@ -2,8 +2,8 @@
 title: Daily Math Challenges by Dr. Kevin Wang
 # email: ev3commander@outlook.com
 description: These are the daily questions from Dr. Kevin Wang, Areteem Institute. &copy; Copyright 2015
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://math123.github.io" # the base hostname & protocol for your site
+baseurl: /Math123  # the subpath of your site, e.g. /blog/
+url: "http://leiw2000.github.io/Math123" # the base hostname & protocol for your site
 
 github_username: Leiw2000
 
